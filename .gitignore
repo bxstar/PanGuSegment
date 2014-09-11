@@ -1,0 +1,14 @@
+*.bin
+*.dat
+*.version
+*.dll
+*.pdb
+*.obj
+*.exe
+*.cache
+*.lib
+*.resource
+[Dd]ebug*/
+obj/
+[Bb]in
+*.resharper.*
